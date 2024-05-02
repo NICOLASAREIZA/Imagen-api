@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(165, 222, 21);
+    margin: 40px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 4px solid black;
+    padding: 12px;
+}
